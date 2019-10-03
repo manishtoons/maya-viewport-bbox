@@ -19,7 +19,7 @@ One you copy this script into your PYTHONPATH $HOME/maya/scripts/ directory you 
 
 ## Get involved
 
-Please open a issue if you face any issue or wanting to have any feature included
+Please feel free to open a issue if you face any issue or wanting to have any feature included, or create a PR
         
 ## Disclaimer
 
